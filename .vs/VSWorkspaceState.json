@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TournamentTracker",
+    "\\TournamentTracker\\TournamentTracker",
+    "\\TournamentTracker\\TournamentTracker\\DataAccess",
+    "\\TournamentTracker\\TournamentTracker\\models",
+    "\\TournamentTracker\\TrackerUI"
+  ],
+  "SelectedNode": "\\TournamentTracker\\TrackerUI\\CreatePriceForm.cs",
+  "PreviewInSolutionExplorer": false
+}

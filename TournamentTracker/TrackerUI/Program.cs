@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TrackerLibrary;
 
 namespace TrackerUI
 {
@@ -19,8 +20,7 @@ namespace TrackerUI
             Application.SetCompatibleTextRenderingDefault(false);
 
             // Initialize the database connections.
-            TrackerLibrary.GlobalConfig.InitializeConnection(true, true);
-
+            TrackerLibrary.GlobalConfig.InitializeConnection(DatabaseType.Sql);
             Application.Run(new CreatePriceForm());
             //Application.Run(new TournamentDashboardForm());
         }
