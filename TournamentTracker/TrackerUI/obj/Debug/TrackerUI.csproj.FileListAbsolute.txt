@@ -33,3 +33,5 @@ C:\Developer\TornamentTrackerWDATest\TournamentTracker\TrackerUI\obj\Debug\Track
 C:\Developer\TornamentTrackerWDATest\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
 C:\Developer\TornamentTrackerWDATest\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
 C:\Developer\TornamentTrackerWDATest\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
+C:\Developer\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+C:\Developer\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml

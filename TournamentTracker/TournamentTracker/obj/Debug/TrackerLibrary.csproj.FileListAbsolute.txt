@@ -12,3 +12,6 @@ C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\obj\Deb
 C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\bin\Debug\Dapper.dll
 C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\bin\Debug\Dapper.xml
 C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\Dapper.dll
+C:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\Dapper.xml
+C:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.csproj.CopyComplete
