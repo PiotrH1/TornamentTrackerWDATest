@@ -4,3 +4,14 @@ c:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\Tra
 c:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\TrackerLibrary.pdb
 c:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.dll
 c:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.pdb
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\bin\Debug\TrackerLibrary.dll
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\bin\Debug\TrackerLibrary.pdb
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.dll
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.pdb
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\bin\Debug\Dapper.dll
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\bin\Debug\Dapper.xml
+C:\Developer\TornamentTrackerWDATest\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\Dapper.dll
+C:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\bin\Debug\Dapper.xml
+C:\Developer\TournamentTracker\TournamentTracker\TournamentTracker\obj\Debug\TrackerLibrary.csproj.CopyComplete
